@@ -1,0 +1,14 @@
+body {
+    background-color: #E6E6FA
+}
+
+p {
+    text-align: center;
+}
+
+em strong {
+   color: darkmagenta;
+}
+h1{
+  font-size: 60px; font-family: cursive;
+}
