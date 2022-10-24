@@ -1,10 +1,24 @@
 header {
-    background: #E6E6FA
+    background: #E6E6FA;
+    padding: 20px 0;
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav{
+  position: absolute;
+  top: 220px;
+  right: 0;
+  display: flex;
 }
 
 nav li{
-    display: inline;
-    margin: 0 0 0 15px
+      margin: 0 0 0 15px;
+    display: flex;
 }
 
 nav a {
