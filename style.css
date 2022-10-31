@@ -35,6 +35,9 @@ em strong {
 h1 {
   font-size: 60px; font-family: serifa;
 }
+#camomila{
+  width: 50%;
+}
 
 .itens {
     font-style: italic;
