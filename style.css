@@ -3,7 +3,7 @@ body {
 }
 
 #cha {
-   width: 26%;
+   width: 95%;
 }
 
 .principal{
@@ -12,13 +12,11 @@ body {
 }
 
 .titulo-principal{
-    padding-left: 10px;
-    font-size: 30px;
+    padding-left: 20px;
 }
 
 .titulo-centralizado {
     text-align: center;
-    font-size: 35px;
 }
 
 p {
@@ -35,9 +33,6 @@ em strong {
 h1 {
   font-size: 60px; font-family: serifa;
 }
-#camomila{
-  width: 50%;
-}
 
 .itens {
     font-style: italic;
@@ -46,7 +41,6 @@ h1 {
 .beneficios {
     background: #BA55D3;
     padding: 20px;
-    font-size: 26px;
 }
 
 
@@ -55,10 +49,8 @@ ul {
     vertical-align: top;
     width: 20%;
     margin-right: 15%;
-    font-size: 80%;
 }
 
 .imagembeneficios {
-              width: 70%;
-              margin-left: 50%;
+              width: 50%
 }
